@@ -1,2 +1,2 @@
 # MyCode
-Learning the Basics of C++ Programming
+This is my Django Project
